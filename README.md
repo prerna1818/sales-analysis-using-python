@@ -5,31 +5,31 @@ This project focuses on Exploratory Data Analysis (EDA) of a sales dataset conta
 
 The dataset contains fields such as:
 
-User ID
+- User ID
 
-Customer Name
+- Customer Name
 
-Product ID
+- Product ID
 
-Gender
+- Gender
 
-Age Group
+- Age Group
 
-Age
+- Age
 
-Marital Status
+- Marital Status
 
-State
+- State
 
-Zone
+- Zone
 
-Occupation
+- Occupation
 
-Product Category
+- Product Category
 
-Orders
+- Orders
 
-Amount
+- Amount
 
 ## 🛠️ Technologies Used
 
