@@ -90,6 +90,13 @@ Seaborn – for advanced visualization
   <img width="1597" height="840" alt="Screenshot (259)" src="https://github.com/user-attachments/assets/3eb407c1-b397-4d18-960e-7e41438d1353" />
 
 
+  <img width="1801" height="682" alt="Screenshot (260)" src="https://github.com/user-attachments/assets/96b3a46d-5ee1-41a4-b075-9d2cf41e69af" />
+
+
+  <img width="1793" height="732" alt="Screenshot (261)" src="https://github.com/user-attachments/assets/f85a7c75-b97d-49a2-a17d-de8a5f562f77" />
+
+
+
   ## 📈 Key Findings & Conclusion
 
 Married women aged 26–35 years from Uttar Pradesh, Maharashtra, and Karnataka working in IT, Healthcare, or Aviation are more likely to purchase products, especially in Food, Clothing, and Electronics categories.
